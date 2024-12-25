@@ -2,10 +2,10 @@
 
 <p align="center">
 
-![Fork](https://img.shields.io/github/forks/kevinnadar22/URL-Shortener-V2?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/kevinnadar22/URL-Shortener-V2?color=%23&style=for-the-badge)
-![License](https://img.shields.io/github/license/kevinnadar22/URL-Shortener-V2?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/kevinnadar22/URL-Shortener-V2?style=for-the-badge)
+![Fork](https://img.shields.io/github/forks/JayRaj8833/URL-Shortener-V2?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/JayRaj8833/URL-Shortener-V2?color=%23&style=for-the-badge)
+![License](https://img.shields.io/github/license/JayRaj8833/URL-Shortener-V2?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/JayRaj8833/URL-Shortener-V2?style=for-the-badge)
 
 </p>
 
@@ -18,19 +18,19 @@
     <img src="https://short2earn.live/img/Short2Earn_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">URL Shortener Bot V2</h3>
+  <h3 align="center">Short2Earn URL Shortener Bot</h3>
 
   <p align="center">
     A Shortener and Convertor Bot
     <br />
     ·
-    <a href="https://www.telegram.dog/ask_admin001">Report Bug</a>
+    <a href="https://www.telegram.dog/JayRaj8833">Report Bug</a>
     ·
-    <a href="https://github.com/kevinnadar22/URL-Shortener-V2#features">Features</a>
+    <a href="https://github.com/JayRaj8833/URL-Shortener-V2#features">Features</a>
     ·
-    <a href="https://github.com/kevinnadar22/URL-Shortener-V2#deploy">Deploy</a>
+    <a href="https://github.com/JayRaj8833/URL-Shortener-V2#deploy">Deploy</a>
     ·
-    <a href="https://github.com/kevinnadar22/URL-Shortener-V2#required-variables">Variables</a>
+    <a href="https://github.com/JayRaj8833/URL-Shortener-V2#required-variables">Variables</a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@
 
 > **Now this bot can be used by users also. Only admin has access to channel support. Bot Owner API will be used in channel post converting. You can restrict users from using this bot by setting env `IS_PRIVATE` to True**
 
-**This Is Just An Simple Advance Shortener and Converter Bot Completely Rewritten Version Of [URL Shortener](https://github.com/t2links/URL-Shortener-bot)**
+**This Is Just An Simple Advance Shortener and Converter Bot Completely Rewritten Version Of [URL Shortener](https://short2earn.live)**
 
 **Just Send Any Link To Short. It Will Short Link or Save it to your MDisk Account**
 
@@ -75,7 +75,7 @@
 
 - -> Add me to your channel as admin with full previlages to convert channel's post
 
-> For more information about usages, see the [documentation](https://github.com/kevinnadar22/URL-Shortener-V2/wiki/Usage)
+> For more information about usages, see the [documentation](https://github.com/JayRaj8833/URL-Shortener-V2/wiki/Usage)
 
 ## Commands
 
@@ -116,8 +116,8 @@ info - get user info
 - [x] Batch Support
 - [x] Multiple Methods Available
 - [x] Bypass Shortener Links
-- [x] [Hyperlink Support](https://example.com/)
-- [x] [Request Features](https://t.me/ask_admin001)
+- [x] [Hyperlink Support](https://short2earn.live/)
+- [x] [Request Features](https://t.me/JayRaj8833)
 
 ### Required Variables
 
@@ -133,7 +133,7 @@ info - get user info
 
 ### Optional Variables
 
-> For more information about optional variables see the [wiki documentation](https://github.com/kevinnadar22/URL-Shortener-V2/wiki/About#optional-variables)
+> For more information about optional variables see the [wiki documentation](https://github.com/JayRaj8833/URL-Shortener-V2/wiki/About#optional-variables)
 
 ## Deploy
 
@@ -142,8 +142,8 @@ You can deploy this bot anywhere.
 |                                                        | Name                 | Deploy                                                                                                                                                                                                                             |
 | ------------------------------------------------------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Replit](assets/img/replit.jpg)                       | Replit (Recommended) | [See Guide](/guides/replit.md)                                                                                                                                                                                                     |
-| [![Heroku](assets/img/heroku.png)](https://heroku.com) | Heroku               | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kevinnadar22/URL-Shortener-V2)                                                                                      |
-| ![Koyeb](assets/img/koyeb.png)                         | Koyeb                | [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=kevinnadar22/url-shortener-v2&name=url-shortener-v2&run_command=python3%20-m%20main&branch=main) |
+| [![Heroku](assets/img/heroku.png)](https://heroku.com) | Heroku               | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JayRaj8833/URL-Shortener-V2)                                                                                      |
+| ![Koyeb](assets/img/koyeb.png)                         | Koyeb                | [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=JayRaj8833/url-shortener-v2&name=url-shortener-v2&run_command=python3%20-m%20main&branch=main) |
 | ![VPS](assets/img/vps.png)                             | VPS                  | [See Guide](/guides/vps.md)                                                                                                                                                                                                        |
 
 ## Tech Stack
@@ -154,7 +154,7 @@ You can deploy this bot anywhere.
 
 ## Support
 
-Contact Our [DEV](https://www.telegram.dog/ask_admin001) For Support/Assistance
+Contact Our [DEV](https://www.telegram.dog/JayRaj8833) For Support/Assistance
 
 Report Bugs, Give Feature Requests There..  
 Do Fork And Star The Repository If You Liked It.
@@ -167,4 +167,4 @@ Selling The Codes To Other People For Money Is _Strictly Prohibited_.
 
 ## Credits
 
-- [Thanks To Me](https://github.com/Kevinnadar22)
+- [Thanks To Me](https://github.com/JayRaj8833)
