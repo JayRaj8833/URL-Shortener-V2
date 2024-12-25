@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://short2earn.live/">
-    <img src="https://short2earn.live/img/Short2Earn_logo.png" alt="Logo" width="80" height="80">
+    <img src="https://short2earn.live/img/Short2Earn.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Short2Earn URL Shortener Bot</h3>
