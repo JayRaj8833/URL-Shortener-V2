@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2">
-    <img src="https://i.ibb.co/1mwchh9/Screenshot-2022-07-08-at-11-06-34-AM.png" alt="Logo" width="80" height="80">
+  <a href="https://short2earn.live/">
+    <img src="https://short2earn.live/img/Short2Earn_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">URL Shortener Bot V2</h3>
