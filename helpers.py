@@ -66,7 +66,7 @@ async def ping_server():
             async with aiohttp.ClientSession(
                 timeout=aiohttp.ClientTimeout(total=10)
             ) as session:
-                async with session.get(f"http://0.0.0.0:{PORT}") as resp:
+                async with session.get(f"http://server.short2earn.live:{PORT}") as resp:
                     logging.info(f"Pinged server with response: {resp.status}")
         except TimeoutError:
             logging.warning("Couldn't connect to the site URL..!")
